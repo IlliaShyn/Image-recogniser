@@ -1,4 +1,4 @@
-# Image-recogniser
+# Image-recognition
 ## Image Recognition API
 API Purpose: Build an API that can recognize and classify images (e.g., animals, objects, or text).
  ## Key Learning Points:
